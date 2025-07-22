@@ -63,7 +63,7 @@ Press again to stop
 
 # Photos
 ![alt text](mouse_spoofer.png)
-[![Watch the video](demonstration.mp4)
+![Watch the video](demonstration.mp4)
 
 
 ## Disclaimer
