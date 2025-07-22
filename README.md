@@ -61,6 +61,11 @@ Press the button to start spoofing; LED will turn on
 
 Press again to stop
 
+# Photos
+![alt text](mouse_spoofer.png)
+[![Watch the video](demonstration.mp4)
+
+
 ## Disclaimer
 This project was created for educational purposes only. Using tools like this to circumvent employer policies may violate workplace agreements or local laws. Use responsibly.
 
