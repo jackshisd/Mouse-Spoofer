@@ -71,6 +71,6 @@ Press again to stop
 ## Disclaimer
 This project was created for educational purposes only. Using tools like this to circumvent employer policies may violate workplace agreements or local laws. Use responsibly.
 
-# Author
+# 🧑‍🔬 Author
 Jack Shi
 🛠️ Hardware tinkerer • 📫 jackmshi@ucla.edu
