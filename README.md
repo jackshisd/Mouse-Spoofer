@@ -50,13 +50,6 @@ The LED turns on to indicate active spoofing
 
 Ideal for preventing screensavers or inactivity detection
 
-##Repository Contents
-- main.py – core script for movement + GPIO handling
-
-- boot.py – optional file for USB HID setup
-
-- README.md – project overview and instructions
-
 ## Usage
 Flash MicroPython or CircuitPython onto your Pico
 
