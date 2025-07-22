@@ -4,6 +4,17 @@ This project is a USB mouse spoofer designed for a friend whose job tracked mous
 
 Built using a Raspberry Pi Pico (2020 model) and written in Python (via CircuitPython or MicroPython), it features plug-and-play functionality and requires no software setup on the host machine.
 
+## 🖼️ Photos
+
+<img src="mouse_spoofer.png" alt="Mouse Spoofer" width="350"/>
+
+---
+
+## 🎥 Demo Video
+
+[▶️ Watch the demonstration](demonstration.mp4)
+
+
 ## Features
 - USB HID mouse emulation via Pi Pico
 
@@ -61,11 +72,6 @@ Press the button to start spoofing; LED will turn on
 
 Press again to stop
 
-# Photos
-![Mouse Spoofer](mouse_spoofer.png)
-
-# Demo Video
-[🎥 Watch the video](demonstration.mp4)
 
 
 
