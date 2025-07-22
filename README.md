@@ -51,26 +51,26 @@ Built using a Raspberry Pi Pico (2020 model) and written in Python (via CircuitP
 - Soldering or breadboard setup
 
 ## How It Works
-When plugged in, the Pi Pico identifies as a USB mouse
+- When plugged in, the Pi Pico identifies as a USB mouse
 
-Pressing the button starts or stops the mouse spoofing script
+- Pressing the button starts or stops the mouse spoofing script
 
-When active, the script randomly moves the cursor at intervals that mimic human behavior
+- When active, the script randomly moves the cursor at intervals that mimic human behavior
 
-The LED turns on to indicate active spoofing
+- The LED turns on to indicate active spoofing
 
-Ideal for preventing screensavers or inactivity detection
+- Ideal for preventing screensavers or inactivity detection
 
 ## Usage
-Flash MicroPython or CircuitPython onto your Pico
+- Flash MicroPython or CircuitPython onto your Pico
 
-Copy the main.py script to the Pico’s filesystem
+- Copy the main.py script to the Pico’s filesystem
 
-Plug the Pico into a computer
+- Plug the Pico into a computer
 
-Press the button to start spoofing; LED will turn on
+- Press the button to start spoofing; LED will turn on
 
-Press again to stop
+- Press again to stop
 
 
 
